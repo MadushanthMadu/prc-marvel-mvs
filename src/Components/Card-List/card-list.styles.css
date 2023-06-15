@@ -20,16 +20,28 @@
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 912px) {
     .card-list {
         grid-template-columns: 1fr 1fr;
         width: 60vh;
     }
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 420px) {
     .card-list {
         grid-template-columns: 1fr;
-        width: 40vh;
+        width: 32vh;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .card-list {
+        width: 40.2vh;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .card-list {
+        width: 35vh;
     }
 }
