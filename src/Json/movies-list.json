@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m1",
+    "title": "Spider-Man",
+    "release": "MAY 24, 2002",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F1-min.jpg?alt=media&token=793bced9-3c3b-4e2c-86d4-0bd10a46fe45"
+  }, 
+  {
+    "id": "m2",
+    "title": "Spider-Man 2",
+    "release": "JUN 30, 2004",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F2-min.jpg?alt=media&token=041cb9b6-dbd5-475b-a354-488cef9674ac"
+  }, 
+  {
+    "id": "m3",
+    "title": "Spider-Man 3",
+    "release": "MAY 04, 2007",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F3-min.jpg?alt=media&token=71cf0017-24c8-4392-9ea3-c3e9be50748e"
+  }, 
+  {
+    "id": "m4",
+    "title": "Iron Man",
+    "release": "MAY 02, 2008",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F4-min.jpg?alt=media&token=0c5f94bf-8c8b-4536-b417-23cae96c6483"
+  }, 
+  {
+    "id": "m5",
+    "title": "The Incredible Hulk",
+    "release": "JUN 13, 2008",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F5-min.jpg?alt=media&token=d4e82323-84ac-4f42-b712-3b652e4b7d21"
+  }, 
+  {
+    "id": "m6",
+    "title": "Iron Man 2",
+    "release": "MAY 07, 2010",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F6-min.jpg?alt=media&token=c19a0012-c4bf-48e0-9434-a6d944ed23c7"
+  }, 
+  {
+    "id": "m7",
+    "title": "Thor",
+    "release": "MAY 06, 2011",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F7-min.jpg?alt=media&token=d5358663-d78c-420b-8eea-62131db4ae02"
+  }, 
+  {
+    "id": "m8",
+    "title": "Captain America: The First Avenger",
+    "release": "JUL 22, 2011",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F8-min.jpg?alt=media&token=84db9601-ef55-48fd-9170-5726ef4deeec"
+  }, 
+  {
+    "id": "m9",
+    "title": "Avengers",
+    "release": "MAY 04, 2012",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F9-min.jpg?alt=media&token=799c22d7-44cd-4274-bd65-cee21b1665e8"
+  }, 
+  {
+    "id": "m10",
+    "title": "The Amazing Spider Man",
+    "release": "JUL 03, 2012",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F10-min.jpg?alt=media&token=0176b988-24c5-466d-acfa-a9c14e5337a9"
+  }, 
+  {
+    "id": "m11",
+    "title": "Iron Man 3",
+    "release": "MAY 03, 2013",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F11-min.jpg?alt=media&token=b4c2a313-1068-4d4a-9a49-96d396ce574f"
+  }, 
+  {
+    "id": "m12",
+    "title": "Thor: The Dark World",
+    "release": "NOV 08, 2013",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F12-min.jpg?alt=media&token=d4121bd5-0262-4276-8f3b-9a09659c01a7"
+  }, 
+  {
+    "id": "m13",
+    "title": "Captain America: The Winter Soldier",
+    "release": "APR 04, 2014",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F13-min.jpg?alt=media&token=bacdf3b6-8cc4-4da7-8eba-f8043e6cb081"
+  }, 
+  {
+    "id": "m14",
+    "title": "The Amazing Spider Man 2",
+    "release": "MAY 02, 2014",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F14-min.jpg?alt=media&token=5cb38992-230f-41de-9f9a-41c72c06bea1"
+  }, 
+  {
+    "id": "m15",
+    "title": "Guardians of the Galaxy",
+    "release": "AUG 01, 2014",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F15-min.jpg?alt=media&token=b8ecfe6e-1223-4d2e-baa6-d4a88850bbb6"
+  }, 
+  {
+    "id": "m16",
+    "title": "Avengers: Age of Ultron",
+    "release": "MAY 01, 2015",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F16-min.jpg?alt=media&token=bc3c5d0e-71ff-4aff-b3b0-28417c318cc6"
+  }, 
+  {
+    "id": "m17",
+    "title": "Ant-Man",
+    "release": "JUL 17, 2015",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F17-min.jpg?alt=media&token=c8bb6fbf-469a-4692-9c12-b784662dcfad"
+  }, 
+  {
+    "id": "m18",
+    "title": "Captain America: Civil War",
+    "release": "MAY 06, 2016",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F18-min.jpg?alt=media&token=91b4a350-9950-4b3f-8996-d6eeae88ac2a"
+  }, 
+  {
+    "id": "m19",
+    "title": "Doctor Strange",
+    "release": "NOV 04, 2016",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F19-min.jpg?alt=media&token=14e264af-66a5-425d-831d-66abcfaf14af"
+  }, 
+  {
+    "id": "m20",
+    "title": "Guardians of the Galaxy Vol.2",
+    "release": "MAY 05, 2017",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F20-min.jpg?alt=media&token=1f766e96-0051-4ea6-9ca0-3a58d3a7800d"
+  }, 
+  {
+    "id": "m21",
+    "title": "Spider-Man: Homecoming",
+    "release": "JUL 07, 2017",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F21-min.jpg?alt=media&token=dcde431c-e73d-43c9-9225-230638fcc758"
+  }, 
+  {
+    "id": "m22",
+    "title": "Thor: Ragnarok",
+    "release": "NOV 03, 2017",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F22-min.jpg?alt=media&token=df2aae85-7b25-421c-885f-0b727d5d524a"
+  }, 
+  {
+    "id": "m23",
+    "title": "Black Panther",
+    "release": "FEB 16, 2018",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F23-min.jpg?alt=media&token=a1d3cc13-51c1-448a-ad0e-c73b26ed88c1"
+  }, 
+  {
+    "id": "m24",
+    "title": "Avengers: Infinity War",
+    "release": "APR 27, 2018",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F24-min.jpg?alt=media&token=1fe5586a-222c-4141-80fb-31c60ec8994e"
+  }, 
+  {
+    "id": "m25",
+    "title": "Ant-Man and the Wasp",
+    "release": "JUL 06, 2018",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F25-min.jpg?alt=media&token=adaf2c9a-baf9-457d-b3ac-68cde3f51335"
+  }, 
+  {
+    "id": "m26",
+    "title": "Venom",
+    "release": "OCT 05, 2018",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F26-min.jpg?alt=media&token=7b0962b3-497d-4bdb-b023-0ad8725011de"
+  }, 
+  {
+    "id": "m27",
+    "title": "Captain Marvel",
+    "release": "MAR 08, 2019",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F27-min.jpg?alt=media&token=ac7a20c1-6d1e-49b1-abe3-3ffd5ff53336"
+  }, 
+  {
+    "id": "m28",
+    "title": "Avengers: Endgame",
+    "release": "APR 26, 2019",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F28-min.jpg?alt=media&token=e4c77019-6374-4850-a49c-5362d42d82e7"
+  }, 
+  {
+    "id": "m29",
+    "title": "Spider-Man: Far From Home",
+    "release": "JUL 02, 2019",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F29-min.jpg?alt=media&token=22428d33-1320-447e-932f-5ddc24edbfbe"
+  }, 
+  {
+    "id": "m30",
+    "title": "Black Widow",
+    "release": "JUL 09, 2021",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F30-min.jpg?alt=media&token=89a5a322-49e1-4b96-a4e6-e6948409978e"
+  }, 
+  {
+    "id": "m31",
+    "title": "Shang-Chi and te Legend of the Ten Rings",
+    "release": "SEP 03, 2021",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F31-min.jpg?alt=media&token=f1dbe802-9b0b-4f01-a1ae-8484bdcd31cc"
+  }, 
+  {
+    "id": "m32",
+    "title": "Venom: Let There Be Carnage",
+    "release": "OCT 01, 2021",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F32-min.jpg?alt=media&token=a69155d3-a195-4b95-9665-aaeaf5553e8b"
+  }, 
+  {
+    "id": "m33",
+    "title": "Eternals",
+    "release": "NOV 05, 2021",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F33-min.jpg?alt=media&token=872f2170-a819-48e1-8869-8069c9eecc60"
+  }, 
+  {
+    "id": "m34",
+    "title": "Spider-Man: No way Home",
+    "release": "DEC 17, 2021",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F34-min.jpg?alt=media&token=fcd1d12a-b953-4c9b-a4c7-df739b3c398c"
+  }, 
+  {
+    "id": "m35",
+    "title": "Morbius",
+    "release": "APR 01, 2022",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F36-min.jpg?alt=media&token=4e4b6382-5564-4d2d-8c05-17078a64b424"
+  }, 
+  {
+    "id": "m36",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "release": "MAY 06, 2022",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F35-min.jpg?alt=media&token=5713983a-a803-484d-b354-122d1a09295e"
+  }, 
+  {
+    "id": "m37",
+    "title": "Thor: Love and Thunder",
+    "release": "JUL 08, 2022",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F37-min.jpg?alt=media&token=7dff3ced-98b2-4ea5-a45e-8d686c8bbf7d"
+  }, 
+  {
+    "id": "m38",
+    "title": "Black Panther: Wakanda Forever",
+    "release": "NOV 11, 2022",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F38-min.jpg?alt=media&token=bab97b49-0c12-4c8d-9b8c-860133e0c1e0"
+  }, 
+  {
+    "id": "m39",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "release": "FEB 17, 2023",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F39-min.jpg?alt=media&token=2b2b5744-01d0-4337-b4eb-56be2f7e8cc9"
+  }, 
+  {
+    "id": "m40",
+    "title": "Guardians of the Galaxy Vol.3",
+    "release": "MAY 05, 2023",
+    "img": "https://firebasestorage.googleapis.com/v0/b/web-practices-marvel-1.appspot.com/o/Movies%2F40-min.jpg?alt=media&token=af15a87a-903e-4b6c-b670-bf14aa010e64"
+  }
+]

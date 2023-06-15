@@ -1,0 +1,25 @@
+.search {
+    border: 1px solid #1f1f1f;
+    background-color: #0D0D0D;
+    outline: none;
+    padding: 10px;
+    width: 200px;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-bottom: -10px;
+    float: right;
+    margin-right: 10px;
+    color: gray;
+}
+
+.search-2 {
+    border: 1px solid #1f1f1f;
+    background-color: #0D0D0D;
+    outline: none;
+    padding: 10px;
+    width: 25vh;
+    line-height: 25px;
+    margin-top: 30px;
+    color: gray;
+    margin-left: 12vh;
+}

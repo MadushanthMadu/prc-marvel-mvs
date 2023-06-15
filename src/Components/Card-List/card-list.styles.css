@@ -1,0 +1,35 @@
+.card-list {
+    width: 157vh;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 25px;
+}
+
+@media screen and (max-width: 1700px) {
+    .card-list {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        width: 125vh;
+    }
+}
+
+@media screen and (max-width: 875px) {
+    .card-list {
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 90vh;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .card-list {
+        grid-template-columns: 1fr 1fr;
+        width: 60vh;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .card-list {
+        grid-template-columns: 1fr;
+        width: 40vh;
+    }
+}
