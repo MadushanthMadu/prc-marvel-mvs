@@ -16,7 +16,8 @@
     color: gray;
     font-size: 25px;
     float: right;
-    transform: translateY(30%);
+    padding-top: 2.5%;
+    font-size: 1.75em;
     padding-right: 10px;
     display: none;
     background: none;
@@ -34,6 +35,26 @@
     
     .search {
         display: none;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .menu-icon {
+        padding-top: 2.25%;
+        font-size: 1.7em;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .menu-icon {
+        font-size: 2.25em;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .menu-icon {
+        padding-top: 3.25%;
+        font-size: 1.7em;
     }
 }
 
@@ -60,12 +81,11 @@
 }
 
 .search-btn {
-    background-color: #1f1f1f;
+    background-color: gray;
     text-decoration: none;
     border: none;
-    margin-top: 7.5px;
+    margin-top: 30px;
     padding: 10px;
-    line-height: 25px;
     font-weight: 600;
     color: #0D0D0D;
     margin-left: 5px;
