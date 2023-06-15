@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prc-marvel-mvs/static/css/main.0a9f1d39.css",
+    "main.js": "/prc-marvel-mvs/static/js/main.b2c05a9d.js",
+    "static/js/787.8da8c805.chunk.js": "/prc-marvel-mvs/static/js/787.8da8c805.chunk.js",
+    "index.html": "/prc-marvel-mvs/index.html",
+    "main.0a9f1d39.css.map": "/prc-marvel-mvs/static/css/main.0a9f1d39.css.map",
+    "main.b2c05a9d.js.map": "/prc-marvel-mvs/static/js/main.b2c05a9d.js.map",
+    "787.8da8c805.chunk.js.map": "/prc-marvel-mvs/static/js/787.8da8c805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a9f1d39.css",
+    "static/js/main.b2c05a9d.js"
+  ]
+}
