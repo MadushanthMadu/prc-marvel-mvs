@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prc-marvel-mvs/static/css/main.27d0d201.css",
-    "main.js": "/prc-marvel-mvs/static/js/main.b2c05a9d.js",
+    "main.css": "/prc-marvel-mvs/static/css/main.abfc074e.css",
+    "main.js": "/prc-marvel-mvs/static/js/main.418096ef.js",
     "static/js/787.8da8c805.chunk.js": "/prc-marvel-mvs/static/js/787.8da8c805.chunk.js",
     "index.html": "/prc-marvel-mvs/index.html",
-    "main.27d0d201.css.map": "/prc-marvel-mvs/static/css/main.27d0d201.css.map",
-    "main.b2c05a9d.js.map": "/prc-marvel-mvs/static/js/main.b2c05a9d.js.map",
+    "main.abfc074e.css.map": "/prc-marvel-mvs/static/css/main.abfc074e.css.map",
+    "main.418096ef.js.map": "/prc-marvel-mvs/static/js/main.418096ef.js.map",
     "787.8da8c805.chunk.js.map": "/prc-marvel-mvs/static/js/787.8da8c805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27d0d201.css",
-    "static/js/main.b2c05a9d.js"
+    "static/css/main.abfc074e.css",
+    "static/js/main.418096ef.js"
   ]
 }
